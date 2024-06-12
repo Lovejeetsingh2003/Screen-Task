@@ -29,8 +29,6 @@ class _ScreenPageState extends State<ScreenPage> {
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
                 Container(
-                  height: 150,
-                  width: 200,
                   alignment: Alignment.center,
                   margin: const EdgeInsets.fromLTRB(20, 10, 20, 0),
                   padding: const EdgeInsets.all(10),
@@ -57,8 +55,6 @@ class _ScreenPageState extends State<ScreenPage> {
                   ),
                 ),
                 Container(
-                  height: 150,
-                  width: 200,
                   alignment: Alignment.center,
                   margin: const EdgeInsets.fromLTRB(20, 10, 20, 0),
                   padding: const EdgeInsets.all(10),
@@ -85,8 +81,6 @@ class _ScreenPageState extends State<ScreenPage> {
                   ),
                 ),
                 Container(
-                  height: 150,
-                  width: 200,
                   alignment: Alignment.center,
                   margin: const EdgeInsets.fromLTRB(20, 10, 20, 0),
                   padding: const EdgeInsets.all(10),
@@ -118,8 +112,6 @@ class _ScreenPageState extends State<ScreenPage> {
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
                 Container(
-                  height: 150,
-                  width: 200,
                   alignment: Alignment.center,
                   margin: const EdgeInsets.fromLTRB(20, 10, 20, 0),
                   padding: const EdgeInsets.all(10),
@@ -146,8 +138,6 @@ class _ScreenPageState extends State<ScreenPage> {
                   ),
                 ),
                 Container(
-                  height: 150,
-                  width: 200,
                   alignment: Alignment.center,
                   margin: const EdgeInsets.fromLTRB(20, 10, 20, 0),
                   padding: const EdgeInsets.all(10),
@@ -174,8 +164,6 @@ class _ScreenPageState extends State<ScreenPage> {
                   ),
                 ),
                 Container(
-                  height: 150,
-                  width: 200,
                   alignment: Alignment.center,
                   margin: const EdgeInsets.fromLTRB(20, 10, 20, 0),
                   padding: const EdgeInsets.all(10),
@@ -207,8 +195,6 @@ class _ScreenPageState extends State<ScreenPage> {
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
                 Container(
-                  height: 150,
-                  width: 200,
                   alignment: Alignment.center,
                   margin: const EdgeInsets.fromLTRB(20, 10, 20, 0),
                   padding: const EdgeInsets.all(10),
@@ -235,8 +221,6 @@ class _ScreenPageState extends State<ScreenPage> {
                   ),
                 ),
                 Container(
-                  height: 150,
-                  width: 200,
                   alignment: Alignment.center,
                   margin: const EdgeInsets.fromLTRB(20, 10, 20, 0),
                   padding: const EdgeInsets.all(10),
@@ -263,8 +247,6 @@ class _ScreenPageState extends State<ScreenPage> {
                   ),
                 ),
                 Container(
-                  height: 150,
-                  width: 200,
                   alignment: Alignment.center,
                   margin: const EdgeInsets.fromLTRB(20, 10, 20, 0),
                   padding: const EdgeInsets.all(10),
@@ -296,8 +278,6 @@ class _ScreenPageState extends State<ScreenPage> {
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
                 Container(
-                  height: 150,
-                  width: 200,
                   alignment: Alignment.center,
                   margin: const EdgeInsets.fromLTRB(20, 10, 20, 0),
                   padding: const EdgeInsets.all(10),
@@ -324,8 +304,6 @@ class _ScreenPageState extends State<ScreenPage> {
                   ),
                 ),
                 Container(
-                  height: 150,
-                  width: 200,
                   alignment: Alignment.center,
                   margin: const EdgeInsets.fromLTRB(20, 10, 20, 0),
                   padding: const EdgeInsets.all(10),
@@ -352,8 +330,6 @@ class _ScreenPageState extends State<ScreenPage> {
                   ),
                 ),
                 Container(
-                  height: 150,
-                  width: 200,
                   alignment: Alignment.center,
                   margin: const EdgeInsets.fromLTRB(20, 10, 20, 0),
                   padding: const EdgeInsets.all(10),
